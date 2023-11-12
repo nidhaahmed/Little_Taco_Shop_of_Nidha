@@ -11,8 +11,6 @@ Welcome to The Little Taco Shop, the official website for Nidha's Little Taco Sh
 - [Our Menu](#our-menu)
 - [Store Hours](#store-hours)
 - [Contact Us](#contact-us)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About LTS
 
