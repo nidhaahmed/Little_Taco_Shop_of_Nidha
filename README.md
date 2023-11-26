@@ -3,7 +3,8 @@
 
 Welcome to The Little Taco Shop, the official website for Nidha's Little Taco Shop!
 
-![Tacos and Drinks](Tacos_and_Drinks.jpg)
+![Uploading Taco_icon.jpg…]()
+
 
 ## Table of Contents
 
